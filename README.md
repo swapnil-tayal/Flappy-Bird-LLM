@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/339aa4b1-43ce-4662-a72e-7a5c43298292
 # Flappy-Bird-LLM
 
 ```
